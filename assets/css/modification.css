@@ -1,0 +1,109 @@
+section {
+    padding: 0;
+    padding-bottom: 100px;
+}
+
+.stretch-full {
+    width: 100%;
+}
+
+.padding-avoid {
+    padding: 0px!important;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.sub-title {
+    font-family: 27px;
+    font-family: DomaineDisplay;
+}
+
+.sub-text {
+    font-size: 17px;
+    font-family: National;
+}
+
+.left-pane {
+    padding-left: 20%;
+    padding-top: 7rem;
+    padding-right: 50px;
+}  
+
+.right-pane {
+    padding-left: 50px;
+    padding-right: 20%;
+    padding-top: 7rem;
+}
+
+.align-center {
+    text-align: center;
+}
+
+.delivery-image {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 30px;
+}
+
+#menus1 {
+    height: 477px;
+    z-index: 1;
+    color: #fff;
+    padding: 60px 0px 65px 0px;
+    background: url('../images/PG/home/7M0A4802.jpg') no-repeat center center scroll;
+    /* background attachment fixed used for CSS parallax scrolling effect */
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.review-box {
+    width: 60%;
+    background-color: #ffffff;
+    margin: auto;
+}
+
+#carouselExampleCaptions {
+    color: black;
+    padding: 50px 100px;
+    height: 350px;
+}
+
+.shadow {
+    box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.55)!important;
+    opacity: 0.94;
+}
+
+ol li {
+    color: black!important;
+    width: 5px!important;
+    height: 5px!important;
+    border-radius: 5px!important;
+    border: 2px solid black!important;
+}
+
+ol li.active {
+    background-color: black!important;
+}
+
+nav {
+    background-color: #317a8c!important;
+    color: white!important;
+    height: 80px!important;
+}
+
+ul li a{
+    color: white!important;
+}
+
+.footer-table {
+    margin: auto;
+}
+
+.footer-table thead tr th,
+.footer-table tbody tr td {
+    padding-right: 50px;
+}
